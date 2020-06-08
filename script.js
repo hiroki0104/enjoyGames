@@ -2,7 +2,7 @@ const gameListEl = document.getElementById('game-list');
 const cloudEl = document.getElementById('cloud-link');
 
 const gameList = [
-  { title: 'シューティングゲーム', url: './js_game_practice/index.html' },
+  { title: 'シューティングゲーム', url: './shooting_game/index.html' },
 ];
 
 function createGameList() {
