@@ -106,7 +106,7 @@ h1 {
   top: 40%;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 25px;
+  font-size: 20px;
   letter-spacing: 1px;
 }
 
@@ -152,6 +152,6 @@ h1 {
     padding-left: 0;
   }
   .cloud span {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
